@@ -1,7 +1,7 @@
-Hacker News Data Analysis
+Hacker News Data Analysis:
 This repository contains a data analysis project focused on Hacker News, where we explore various metrics such as the number of points, comments, and the time of posting. The goal is to gain insights into the activity and engagement of posts on the platform.
 
-Dataset
+Dataset:
 The dataset used in this analysis is hacker.csv, which includes the following columns:
 
 id: Unique identifier for each post
@@ -24,16 +24,18 @@ Descriptive Statistics:
 
 Calculation of the average number of comments for "Ask HN" and "Show HN" posts.
 Identification of the hour with the maximum number of comments.
+
 Group By Analysis:
 
 Grouping data by the hour of creation and calculating the average number of comments.
 Sorting the results to find the top hours for user engagement.
+
 Pivot Table Analysis:
 
 Creation of a pivot table to calculate the average number of comments for "Ask HN" posts by the hour of creation.
 Sorting to identify the hour with the highest average number of comments.
-Results
-Some key findings from the analysis include:
 
+Results:
+Some key findings from the analysis include:
 The hour with the most engagement (based on the number of comments).
 Differences in engagement between "Ask HN" and "Show HN" posts.
